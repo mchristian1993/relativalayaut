@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">relativalayaut</string>
+    <string name="st_1">1</string>
+    <string name="st2">2</string>
+    <string name="st3">3</string>
+    <string name="st4">4</string>
+    <string name="stc">centro</string>
+    <string name="st5">5</string>
+    <string name="st6">6</string>
+    <string name="st7">7</string>
+    <string name="st8">8</string>
 </resources>
